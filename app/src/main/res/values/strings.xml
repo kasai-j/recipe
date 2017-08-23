@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Recipes</string>
+    <string name="error_retrofit_call_failure">Sorry we were unable to retrieve recipies.</string>
+</resources>
